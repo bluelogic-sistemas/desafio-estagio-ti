@@ -75,7 +75,6 @@ Caso tenha qualquer problema e não puder iniciar o desafio no prazo estabelecid
 - Uso framework NestJs (https://nestjs.com/)
 - Uso de Docker
 - Interface web simples para mostrar as informações
-- Documentação (Swagger ou Postman)
 
 ## Materiais úteis
 - https://docs.nestjs.com/
